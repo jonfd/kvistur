@@ -11,7 +11,7 @@ python train.py --train germanet.txt --model-dir germanet
 
 # Requirements
 * Python 3.7+
-* Tensorflow
+* Tensorflow 2.0+
 * Scikit-learn
 
 ## License
